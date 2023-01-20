@@ -7,3 +7,5 @@ async function fetchMovies() {
 }
 
 fetchMovies();
+console.log("----")
+axios.get('http://localhost:3000/')
